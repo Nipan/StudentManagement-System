@@ -15,7 +15,7 @@ while True:
 
     if choice == "1":
         add_student(students)
-    elif choice == "2":
+    elif choice == "2....":
         view_students(students)
     elif choice == "3":
         search_student(students)
